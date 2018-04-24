@@ -1,0 +1,6 @@
+test_pseudos
+*~
+*.o
+test_card*
+client
+server
